@@ -17,6 +17,9 @@ a simple script to predict crypto prices
 ```python crypto_predict.py --source tiingo --top 5 ```
 ### Extend lookback window for more training data
 ```python crypto_predict.py --source tiingo --days 1095 ```
+### Output:
+<img width="820" height="825" alt="image" src="https://github.com/user-attachments/assets/82d21f55-bd82-4aa2-80cf-cdbf1193e713" />
+
 
 ---
 # Prediction Method Overview
